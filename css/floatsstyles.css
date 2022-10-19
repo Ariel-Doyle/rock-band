@@ -1,9 +1,19 @@
 .sidebar {
   width: 30%;
+  border: 5px solid pink;
   float: left;
   background-color: aqua;
+  padding: 20px;
 }
 
 h1 {
   background-color: goldenrod;
+}
+
+img {
+  width: 50%;
+  height: auto;
+  margin-left: 20px;
+  padding: 20px;
+  border: 2px outset green;
 }
